@@ -15,7 +15,7 @@ Download the dataset from the UC Irvine Machine Learning Repository and import i
 The dataset is checked for any incorrect data, missing values, and duplicates.
 
 #### Exploratory Data Analysis
-This is conducted to have a basic understanding of the data. It identifies the patterns and correlations between the features and the class variable.
+This is conducted to have a basic understanding of the data. It identifies the patterns and correlations between the features and the class variable. <a href="https://github.com/f1-sanchez/CIND-820-Project/blob/main/code/EDA.ipynb">Click here to view the codes used in EDA.</a>
 
 #### Machine Learning Models
 Decision Tree, Random Forest, and Naive Bayes will be used.

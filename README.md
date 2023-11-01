@@ -11,14 +11,14 @@ Conduct extensive research on obesity levels and other related topics, including
 #### Data Collection
 Download the dataset from the UC Irvine Machine Learning Repository and import into Python.
 
-### Data Cleaning
+#### Data Cleaning
 The dataset is checked for any incorrect data, missing values, and duplicates.
 
-### Exploratory Data Analysis
+#### Exploratory Data Analysis
 This is conducted to have a basic understanding of the data. It identifies the patterns and correlations between the features and the class variable.
 
-### Machine Learning Models
+#### Machine Learning Models
 Decision Tree, Random Forest, and Naive Bayes will be used.
 
-### Conclusion
+#### Conclusion
 This will include the model that performed the best, along with the interpretation of the results and any possible recommendations.

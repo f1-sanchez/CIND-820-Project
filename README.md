@@ -14,7 +14,7 @@ Download the dataset from the UC Irvine Machine Learning Repository and import i
 #### Data Cleaning
 The dataset is checked for any incorrect data, missing values, and duplicates.
 
-#### Exploratory Data Analysis
+#### Exploratory Data Analysis [EDA] (https://github.com/f1-sanchez/CIND-820-Project/blob/b1149a592b18d1c88b1090cb96be36b31f15b9ca/code/EDA.ipynb)
 This is conducted to have a basic understanding of the data. It identifies the patterns and correlations between the features and the class variable.
 
 #### Machine Learning Models

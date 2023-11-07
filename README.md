@@ -18,7 +18,7 @@ The dataset is checked for any incorrect data, missing values, and duplicates.
 This is conducted to have a basic understanding of the data. It identifies the patterns and correlations between the features and the class variable. <a href="https://github.com/f1-sanchez/CIND-820-Project/blob/main/codes/EDA.ipynb">Click here to view the codes used in EDA.</a>
 
 #### Machine Learning Models
-Decision Tree, Random Forest, and Naive Bayes will be used.
+<a href="https://github.com/f1-sanchez/CIND-820-Project/blob/main/codes/Decision_Tree.ipynb">Decision Tree</a>, <a href="https://github.com/f1-sanchez/CIND-820-Project/blob/main/codes/Random_Forest.ipynb">Random Forest</a>, and <a href="https://github.com/f1-sanchez/CIND-820-Project/blob/main/codes/Naive_Bayes.ipynb">Naive Bayes</a> will be used.
 
 #### Conclusion
 This will include the model that performed the best, along with the interpretation of the results and any possible recommendations.
